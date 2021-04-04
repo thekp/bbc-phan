@@ -21,8 +21,6 @@ const IndexPage = () => {
     },
   } = useQuery(FrontPageData);
 
-  console.log(process.env);
-
   return (
     <>
       <Helmet>
