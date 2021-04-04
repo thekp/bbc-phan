@@ -1,10 +1,5 @@
 .next/
 
-# Secrets
-secrets.json
-src/util/credentials.js
-src/apollo/utils.js
-
 # Logs
 logs
 *.log

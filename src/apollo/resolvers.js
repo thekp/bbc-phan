@@ -1,7 +1,8 @@
 import axios from "axios";
 
 import { getYouTubeAccessToken, getStravaAccessToken } from "./utils";
-import secrets from "./secrets.json";
+
+const youtubeKey = process.env.YOUTUBE_KEY;
 
 export const resolvers = {
   Query: {
@@ -11,7 +12,7 @@ export const resolvers = {
       const { data } = await axios({
         method: "get",
         headers: { Authorization: `Bearer ${youTubeToken}` },
-        url: `https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&maxResults=10&myRating=like&key=${secrets.youtube_key}`,
+        url: `https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&maxResults=10&myRating=like&key=${youtubeKey}`,
       });
 
       return data;
@@ -22,7 +23,7 @@ export const resolvers = {
       const { data } = await axios({
         method: "get",
         headers: { Authorization: `Bearer ${youTubeToken}` },
-        url: `https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&maxResults=10&myRating=dislike&key=${secrets.youtube_key}`,
+        url: `https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&maxResults=10&myRating=dislike&key=${youtubeKey}`,
       });
 
       return data;

@@ -24,8 +24,6 @@ const findMedian = (values) => {
 
   const half = Math.floor(values.length / 2);
 
-  console.log(newValues[half]);
-
   return newValues[half];
 };
 
