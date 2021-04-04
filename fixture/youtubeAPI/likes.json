@@ -1,0 +1,748 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "mXtKXs-m8rHQvhKezUnemJSND5g",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "wlQCLK4--zrpLYu2zH4Ub8fosY8",
+      "id": "NvAA8hXRd0U",
+      "snippet": {
+        "publishedAt": "2020-12-18T21:21:15Z",
+        "channelId": "UCcHBw_Rs56RFcisYAOlFfmQ",
+        "title": "The Digimon Movie Revisited: It Sort Of Works | Billiam",
+        "description": "The Digimon Movie is a strange hybrid of three separate short films edited together by the American dub team, but it remains cool and a perfect time capsule of the era. \n\nB-Side Channel ► https://www.youtube.com/user/BilliamPlays\nTwitter  ► https://twitter.com/billiamthies\nInstagram ► https://www.instagram.com/billiamthies/\nTwitch ► https://www.twitch.tv/billiamthies\n\n-----------------------------------------------------------------------------------------------\n\nThe three films edited together are titled, \"Digimon Adventure,\" \"Digimon Adventure: Our War Game,\" and the two-part OVA: \"Digimon Adventure 02: Hurricane Touchdown/Transcendent Evolution: The Golden Digimentals.\"\n\nmsc. Social Media Sites\n\nDiscord ► https://t.co/AfWYrfV2NL\nTumblr ► http://billiamthies.tumblr.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NvAA8hXRd0U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NvAA8hXRd0U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NvAA8hXRd0U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NvAA8hXRd0U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NvAA8hXRd0U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Billiam",
+        "tags": [
+          "Digimon",
+          "Digimon Adventure",
+          "Billiam",
+          "Digimon The Movie",
+          "Digimon Movie",
+          "Saban",
+          "Fox Kids",
+          "Digimon Adventure 02",
+          "Angela Anaconda",
+          "Digimon Adventure Reboot",
+          "commentary",
+          "nostalgia",
+          "Digimon Dub"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "The Digimon Movie Revisited: It Sort Of Works | Billiam",
+          "description": "The Digimon Movie is a strange hybrid of three separate short films edited together by the American dub team, but it remains cool and a perfect time capsule of the era. \n\nB-Side Channel ► https://www.youtube.com/user/BilliamPlays\nTwitter  ► https://twitter.com/billiamthies\nInstagram ► https://www.instagram.com/billiamthies/\nTwitch ► https://www.twitch.tv/billiamthies\n\n-----------------------------------------------------------------------------------------------\n\nThe three films edited together are titled, \"Digimon Adventure,\" \"Digimon Adventure: Our War Game,\" and the two-part OVA: \"Digimon Adventure 02: Hurricane Touchdown/Transcendent Evolution: The Golden Digimentals.\"\n\nmsc. Social Media Sites\n\nDiscord ► https://t.co/AfWYrfV2NL\nTumblr ► http://billiamthies.tumblr.com/"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT26M54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "70637",
+        "likeCount": "5500",
+        "dislikeCount": "61",
+        "favoriteCount": "0",
+        "commentCount": "890"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "MOOeaopRJdqPWWenSKP5IxPuHdE",
+      "id": "thqX845NEgg",
+      "snippet": {
+        "publishedAt": "2020-12-16T15:00:34Z",
+        "channelId": "UC-8QAzbLcRglXeN_MY9blyw",
+        "title": "VSCode Tinder got DDoS'd",
+        "description": "Someone started spamming requests to my lambda function :(\n\n#benawad #vscode #tinder \n\n----\nCheckout my side projects:\n\nIf you're into cooking: https://www.mysaffronapp.com/\n\n----\nJoin the Discord:  https://discord.gg/Vehs99V\n\n----\nPatreon: https://www.patreon.com/benawad\n\n----\nFollow Me Online Here:\n\nTwitter: https://twitter.com/benawad\nTikTok: https://www.tiktok.com/@benawad\nTwitch: https://www.twitch.tv/benawad\nMedium: https://medium.com/@benawad\nGitHub: https://github.com/benawad\nFacebook: https://www.facebook.com/benawad97/\nLinkedIn: https://www.linkedin.com/in/benawad/\nInstagram: http://instagram.com/benawad97",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/thqX845NEgg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/thqX845NEgg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/thqX845NEgg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/thqX845NEgg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/thqX845NEgg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ben Awad",
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "VSCode Tinder got DDoS'd",
+          "description": "Someone started spamming requests to my lambda function :(\n\n#benawad #vscode #tinder \n\n----\nCheckout my side projects:\n\nIf you're into cooking: https://www.mysaffronapp.com/\n\n----\nJoin the Discord:  https://discord.gg/Vehs99V\n\n----\nPatreon: https://www.patreon.com/benawad\n\n----\nFollow Me Online Here:\n\nTwitter: https://twitter.com/benawad\nTikTok: https://www.tiktok.com/@benawad\nTwitch: https://www.twitch.tv/benawad\nMedium: https://medium.com/@benawad\nGitHub: https://github.com/benawad\nFacebook: https://www.facebook.com/benawad97/\nLinkedIn: https://www.linkedin.com/in/benawad/\nInstagram: http://instagram.com/benawad97"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT13M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "66935",
+        "likeCount": "5947",
+        "dislikeCount": "54",
+        "favoriteCount": "0",
+        "commentCount": "465"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "MWxD7DQwc9m37K55e6uRje7n56s",
+      "id": "_zN94RGlsNc",
+      "snippet": {
+        "publishedAt": "2019-11-04T15:00:07Z",
+        "channelId": "UCc35WvHmQjLE8NN4Y_ITmUQ",
+        "title": "*Wears AirPod Pros Once*",
+        "description": "The AirPod God is back and he still can't hear you.\n\nDrop a comment below if u suddenly feel broke-r.\n\nCome see me on my Stand Up Tour!\n11/10 Connecticut\n11/11 Albany\n11/12 Syracuse\n11/20-24 Phoenix\n12/11 San Francisco \n12/12 Sacramento \n12/19-21 Boston\n1/16-18 Rochester\n\nGet tickets at https://www.trevorwallacecomedy.com/\n\n-------------\n\nHuge thanks to Jonathan Morrison over at TLD\nhttps://www.youtube.com/user/tldtoday\nfor the camera and the airpods! Give him a follow for gr8 tech content.\n\nALSO, thanks to Austin Evans for making a quick rich cameo\nsub to him here:\nhttps://www.youtube.com/user/duncan33303\n\nFilmed and appearance by Ryan Leader\nhttps://www.youtube.com/channel/UCHyIvHeTyU2ALxwX4vm_Y4w\nhttps://www.instagram.com/ryantheleader/\n\nLASTLY, follow me for weekly content of sketches and a podcast!\n\nhttps://www.instagram.com/trevorwallace/\nhttp://vm.tiktok.com/5UHXyK/\nhttps://twitter.com/TrevWall\n\nBook Me For A Shoutout: \nhttps://www.cameo.com/trevwall\n\nhave a nice day :)\n\n#TrevorWallace #AirPodPros",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_zN94RGlsNc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_zN94RGlsNc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_zN94RGlsNc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_zN94RGlsNc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_zN94RGlsNc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Trevor Wallace",
+        "tags": [
+          "trevor wallace",
+          "airpods",
+          "airpods once",
+          "meme",
+          "tld",
+          "tech",
+          "apple",
+          "airpod pros",
+          "airpod review",
+          "tim apple",
+          "iphone",
+          "iphone review",
+          "white claw",
+          "comedy",
+          "comedian",
+          "bose",
+          "samsung",
+          "headphones",
+          "wireless",
+          "review"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "*Wears AirPod Pros Once*",
+          "description": "The AirPod God is back and he still can't hear you.\n\nDrop a comment below if u suddenly feel broke-r.\n\nCome see me on my Stand Up Tour!\n11/10 Connecticut\n11/11 Albany\n11/12 Syracuse\n11/20-24 Phoenix\n12/11 San Francisco \n12/12 Sacramento \n12/19-21 Boston\n1/16-18 Rochester\n\nGet tickets at https://www.trevorwallacecomedy.com/\n\n-------------\n\nHuge thanks to Jonathan Morrison over at TLD\nhttps://www.youtube.com/user/tldtoday\nfor the camera and the airpods! Give him a follow for gr8 tech content.\n\nALSO, thanks to Austin Evans for making a quick rich cameo\nsub to him here:\nhttps://www.youtube.com/user/duncan33303\n\nFilmed and appearance by Ryan Leader\nhttps://www.youtube.com/channel/UCHyIvHeTyU2ALxwX4vm_Y4w\nhttps://www.instagram.com/ryantheleader/\n\nLASTLY, follow me for weekly content of sketches and a podcast!\n\nhttps://www.instagram.com/trevorwallace/\nhttp://vm.tiktok.com/5UHXyK/\nhttps://twitter.com/TrevWall\n\nBook Me For A Shoutout: \nhttps://www.cameo.com/trevwall\n\nhave a nice day :)\n\n#TrevorWallace #AirPodPros"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT4M51S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "6164019",
+        "likeCount": "249612",
+        "dislikeCount": "4775",
+        "favoriteCount": "0",
+        "commentCount": "7372"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "eyQ6rxCDU7Wak-oPiIsxoDZPw5M",
+      "id": "bfd8RyAJh6c",
+      "snippet": {
+        "publishedAt": "2020-12-09T15:00:11Z",
+        "channelId": "UC-8QAzbLcRglXeN_MY9blyw",
+        "title": "VSCode Tinder",
+        "description": "I coded a VSCode extension, iOS, and Android dating app designed specifically for coders. \n\nTry it out:\nVSCode: https://marketplace.visualstudio.com/items?itemName=benawad.vsinder\niOS: https://apps.apple.com/us/app/vsinder/id1542523079?itsct=apps_box&itscg=30200\nAndroid: https://play.google.com/store/apps/details?id=com.benawad.vsinder\n\nCode: https://github.com/benawad/vsinder\n\n\n\n#benawad #vscode #tinder\n\n----\nCheckout my side projects:\n\nIf you're into cooking: https://www.mysaffronapp.com/\n\n----\nJoin the Discord:  https://discord.gg/Vehs99V\n\n----\nPatreon: https://www.patreon.com/benawad\n\n----\nFollow Me Online Here:\n\nTwitter: https://twitter.com/benawad\nTikTok: https://www.tiktok.com/@benawad\nTwitch: https://www.twitch.tv/benawad\nMedium: https://medium.com/@benawad\nGitHub: https://github.com/benawad\nFacebook: https://www.facebook.com/benawad97/\nLinkedIn: https://www.linkedin.com/in/benawad/\nInstagram: http://instagram.com/benawad97",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bfd8RyAJh6c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bfd8RyAJh6c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bfd8RyAJh6c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bfd8RyAJh6c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bfd8RyAJh6c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ben Awad",
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "VSCode Tinder",
+          "description": "I coded a VSCode extension, iOS, and Android dating app designed specifically for coders. \n\nTry it out:\nVSCode: https://marketplace.visualstudio.com/items?itemName=benawad.vsinder\niOS: https://apps.apple.com/us/app/vsinder/id1542523079?itsct=apps_box&itscg=30200\nAndroid: https://play.google.com/store/apps/details?id=com.benawad.vsinder\n\nCode: https://github.com/benawad/vsinder\n\n\n\n#benawad #vscode #tinder\n\n----\nCheckout my side projects:\n\nIf you're into cooking: https://www.mysaffronapp.com/\n\n----\nJoin the Discord:  https://discord.gg/Vehs99V\n\n----\nPatreon: https://www.patreon.com/benawad\n\n----\nFollow Me Online Here:\n\nTwitter: https://twitter.com/benawad\nTikTok: https://www.tiktok.com/@benawad\nTwitch: https://www.twitch.tv/benawad\nMedium: https://medium.com/@benawad\nGitHub: https://github.com/benawad\nFacebook: https://www.facebook.com/benawad97/\nLinkedIn: https://www.linkedin.com/in/benawad/\nInstagram: http://instagram.com/benawad97"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT12M47S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "180592",
+        "likeCount": "14370",
+        "dislikeCount": "224",
+        "favoriteCount": "0",
+        "commentCount": "1344"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "HDWGVUl6vuIgG2oMSLYvkvwmdZU",
+      "id": "M1zZ5ACJb8E",
+      "snippet": {
+        "publishedAt": "2020-12-05T14:00:09Z",
+        "channelId": "UCP-Ng5SXUEt0VE-TXqRdL6g",
+        "title": "LEGO DUPLO *Extreme* Safety Tests | LEGO DUPLO Behind the Scenes",
+        "description": "LEGO DUPLO play is serious business! So is brick safety. 👩\u200d🔬Welcome to the new extreme LEGO DUPLO safety test experiment! We took the tests we do in the lab inside our factories to the next level - and hired some of the strongest, most fabulous people to tests our bricks in real life to once again make sure our bricktastic LEGO DUPLO bricks and characters are safe and 100% toddler- and choking-proof!\n\nYou found your way to the official LEGO channel where everything is awesome!\n\nThis is the home for all your latest LEGO movies, animations and series from your favorite LEGO themes such as LEGO NINJAGO, LEGO Star Wars, The LEGO Batman Movie, LEGO Minecraft, LEGO Marvel Super Heroes, LEGO DC Super Heroes, LEGO City, LEGO Friends and many more to come in exclusive episodes and stop motion videos.  \n\nYou can also find hundreds of LEGO songs and LEGO movie trailers. And that’s not all! – you can be one of the first to discover our cool new sets with exclusive behind the scenes LEGO Designer videos.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M1zZ5ACJb8E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M1zZ5ACJb8E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M1zZ5ACJb8E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/M1zZ5ACJb8E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/M1zZ5ACJb8E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "LEGO",
+        "tags": [
+          "LEGO",
+          "LEGOS",
+          "LEGO sets",
+          "LEGO build",
+          "LEGO make",
+          "LEGO series",
+          "LEGO DUPLO",
+          "bricks",
+          "blocks",
+          "safety",
+          "safety test",
+          "safe",
+          "extreme",
+          "stepping on a brick",
+          "stepping",
+          "strongman",
+          "strongwoman",
+          "drag queen",
+          "ballet dancer",
+          "mythbusters"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "LEGO DUPLO *Extreme* Safety Tests | LEGO DUPLO Behind the Scenes",
+          "description": "LEGO DUPLO play is serious business! So is brick safety. 👩\u200d🔬Welcome to the new extreme LEGO DUPLO safety test experiment! We took the tests we do in the lab inside our factories to the next level - and hired some of the strongest, most fabulous people to tests our bricks in real life to once again make sure our bricktastic LEGO DUPLO bricks and characters are safe and 100% toddler- and choking-proof!\n\nYou found your way to the official LEGO channel where everything is awesome!\n\nThis is the home for all your latest LEGO movies, animations and series from your favorite LEGO themes such as LEGO NINJAGO, LEGO Star Wars, The LEGO Batman Movie, LEGO Minecraft, LEGO Marvel Super Heroes, LEGO DC Super Heroes, LEGO City, LEGO Friends and many more to come in exclusive episodes and stop motion videos.  \n\nYou can also find hundreds of LEGO songs and LEGO movie trailers. And that’s not all! – you can be one of the first to discover our cool new sets with exclusive behind the scenes LEGO Designer videos."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT3M24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "36977",
+        "likeCount": "963",
+        "dislikeCount": "133",
+        "favoriteCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "b6JntYGxF2G4Uy18NKRy7dqEwPw",
+      "id": "_tmkOI6bWKs",
+      "snippet": {
+        "publishedAt": "2020-11-30T03:00:06Z",
+        "channelId": "UC_IpSl6O_-IRAA6fiNs05Gg",
+        "title": "Chef David Chang Wins A Million Dollars For Charity! - Who Wants To Be A Millionaire",
+        "description": "In a history-making moment, Chef David Chang risks it all to win $1,000,000 for the charity Southern Smoke Foundation. Watch 'Who Wants To Be A Millionaire' SUNDAY 9|8c on ABC.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_tmkOI6bWKs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_tmkOI6bWKs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_tmkOI6bWKs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_tmkOI6bWKs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_tmkOI6bWKs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ABC",
+        "tags": [
+          "celebrity",
+          "contestants",
+          "money",
+          "charity",
+          "trivia",
+          "moment"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Chef David Chang Wins A Million Dollars For Charity! - Who Wants To Be A Millionaire",
+          "description": "In a history-making moment, Chef David Chang risks it all to win $1,000,000 for the charity Southern Smoke Foundation. Watch 'Who Wants To Be A Millionaire' SUNDAY 9|8c on ABC."
+        }
+      },
+      "contentDetails": {
+        "duration": "PT4M51S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "642256",
+        "likeCount": "7546",
+        "dislikeCount": "95",
+        "favoriteCount": "0",
+        "commentCount": "654"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1gP3zv0v8JhoASBAENA8vSa_Xjk",
+      "id": "L1toV9WrLGg",
+      "snippet": {
+        "publishedAt": "2020-12-03T14:15:02Z",
+        "channelId": "UCDq5v10l4wkV5-ZBIJJFbzQ",
+        "title": "McDonald's Hash Browns made faster and better at home.",
+        "description": "Today, I'll show you the step-by-step process for making these Mcdonald's style hash browns.\n\nLinks:\n► Support on Patreon: https://www.patreon.com/EthanC\n► McDonald's Hash Brown Recipe: https://www.ethanchlebowski.com/cooking-techniques-recipes/make-ahead-mcdonalds-style-hash-browns\n► The Food Lab: https://amzn.to/3g5c5QZ\n\n► Music by Epidemic Sound (free 30-day trial - Affiliate): http://share.epidemicsound.com/33cnNZ\n------------------------------------------------------------------------------------------\n► Connect with me on social:\n - Instagram: https://www.instagram.com/echleb/\n - TikTok: https://www.tiktok.com/@ethanchlebowski\n - Twitter: https://twitter.com/EthanChleb\n-------------------------------------------------------------------------------------------\n► Useful Kitchen Gear\n 🌡 Thermapen Thermometer: http://www.thermoworks.com/Thermapen-Mk4?tw=EthanC\n  - Budget Whetstone for sharpening: https://amzn.to/31MlFDf\n  - Salt Pig: https://amzn.to/37Xi5XZ\n  - Scale: https://amzn.to/2Cu5HmP\n  - Budget 8-inch Chef's knife: https://amzn.to/2QLYvWr\n  - Nicer 8-inch Chef Knife: https://amzn.to/2W06SR1\n  - Magnetic Knife Rack: https://amzn.to/2YYs5ML\n  - Cast iron griddle: https://amzn.to/2BGS5oo\n  - Baking Sheet: https://amzn.to/3aE9dq3\n  - Wire Rack: https://amzn.to/2YeC9lM\n  - Saucepan: https://amzn.to/3gBjmY3\n  - Woodcutting board: https://amzn.to/2Qkw1UQ\n  - (NOT cheap) Amazing Pan: https://amzn.to/2rW8wYY\n-------------------------------------------------------------------------------------------\nMISC. DETAILS\n Music: Provided by Epidemic Sound\n Filmed on: Sony a6600 & Sony A6400 w/ Sigma 16mm F1.4\n Voice recorded on Zoom H4n with Behringer Mic\n Edited in: Premiere Pro #Hashbrowns\n\nAffiliate Disclosure:\nEthan is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.\n\n0:00 Episode Premise\n0:22 Intro\n0:44 Make-Ahead Recipe\n4:42 Cooking methods - Deep Frying, Shallowing Frying, Baking\n6:48 Taste Test & Conclusion",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L1toV9WrLGg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L1toV9WrLGg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L1toV9WrLGg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/L1toV9WrLGg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/L1toV9WrLGg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ethan Chlebowski",
+        "tags": [
+          "Ethan Chlebowski",
+          "mcdonalds hash brown recipe",
+          "mcdonalds hashbrown recipe",
+          "homemade hash browns",
+          "mcdondalds hash brown at home",
+          "mcdonalds hash brown asmr",
+          "hash browns",
+          "hash browns in oven",
+          "hash browns recipe",
+          "homemade mcdonalds hash brown",
+          "mcdonalds hashbrown",
+          "hash brown recipe",
+          "how to make hash browns",
+          "secret recipe"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "McDonald's Hash Browns made faster and better at home.",
+          "description": "Today, I'll show you the step-by-step process for making these Mcdonald's style hash browns.\n\nLinks:\n► Support on Patreon: https://www.patreon.com/EthanC\n► McDonald's Hash Brown Recipe: https://www.ethanchlebowski.com/cooking-techniques-recipes/make-ahead-mcdonalds-style-hash-browns\n► The Food Lab: https://amzn.to/3g5c5QZ\n\n► Music by Epidemic Sound (free 30-day trial - Affiliate): http://share.epidemicsound.com/33cnNZ\n------------------------------------------------------------------------------------------\n► Connect with me on social:\n - Instagram: https://www.instagram.com/echleb/\n - TikTok: https://www.tiktok.com/@ethanchlebowski\n - Twitter: https://twitter.com/EthanChleb\n-------------------------------------------------------------------------------------------\n► Useful Kitchen Gear\n 🌡 Thermapen Thermometer: http://www.thermoworks.com/Thermapen-Mk4?tw=EthanC\n  - Budget Whetstone for sharpening: https://amzn.to/31MlFDf\n  - Salt Pig: https://amzn.to/37Xi5XZ\n  - Scale: https://amzn.to/2Cu5HmP\n  - Budget 8-inch Chef's knife: https://amzn.to/2QLYvWr\n  - Nicer 8-inch Chef Knife: https://amzn.to/2W06SR1\n  - Magnetic Knife Rack: https://amzn.to/2YYs5ML\n  - Cast iron griddle: https://amzn.to/2BGS5oo\n  - Baking Sheet: https://amzn.to/3aE9dq3\n  - Wire Rack: https://amzn.to/2YeC9lM\n  - Saucepan: https://amzn.to/3gBjmY3\n  - Woodcutting board: https://amzn.to/2Qkw1UQ\n  - (NOT cheap) Amazing Pan: https://amzn.to/2rW8wYY\n-------------------------------------------------------------------------------------------\nMISC. DETAILS\n Music: Provided by Epidemic Sound\n Filmed on: Sony a6600 & Sony A6400 w/ Sigma 16mm F1.4\n Voice recorded on Zoom H4n with Behringer Mic\n Edited in: Premiere Pro #Hashbrowns\n\nAffiliate Disclosure:\nEthan is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.\n\n0:00 Episode Premise\n0:22 Intro\n0:44 Make-Ahead Recipe\n4:42 Cooking methods - Deep Frying, Shallowing Frying, Baking\n6:48 Taste Test & Conclusion"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT7M52S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "310978",
+        "likeCount": "13920",
+        "dislikeCount": "230",
+        "favoriteCount": "0",
+        "commentCount": "823"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "IvEluHN_Wj3JWSZhM4cSXSB592s",
+      "id": "IjABEqQ6YXM",
+      "snippet": {
+        "publishedAt": "2020-12-02T16:01:27Z",
+        "channelId": "UChHxJaKDqH4bOs0pX3hkKnA",
+        "title": "The World’s Fastest Gaming Toaster",
+        "description": "Can you build a toaster that runs Crysis and STILL MAKES TOAST!? \nSponsorered by ORIGIN PC - check out Crysis Remastered & ORIGIN's custom PCs here https://bit.ly/2IKivIS :) Enter Giveaway here: https://bit.ly/2JxxDcX\n\nYOUTOOZ LIVE ON DEC 4TH POGGERZ BOYS! Check out the giveaway here -\nhttps://basicallyhomeless.youtooz.com/\n\nIf you watched until the best part you'll understand why you need to go here heh - https://twitter.com/BascllyHomeless\n\nFor links to the rest of my socials, you can find them here - https://zbtsol.com\n\n\nPARTS LIST for TOASTER #1:\nCorsair Vengeance 3600MHz 8GBx2 ram kit \nRyzen 5 3200G CPU (I pre-ordered a 5600x for this video but it didn't come in tike for vid :( ) \nAsus TUF Gaming OC 1660 SUPER GPU \nSilverStone Technology 350 Watt Flex ATX Power Supply\nSilicon Power 1TB - NVMe M.2 PCIe Gen3x4 2280 TLC SSD\nAsus Prime A320I-K AMD Ryzen AM4 DDR4 M.2 DP HDMI Mini ITX Motherboard\nBlack & Decker four slot Toaster custom case built by me with sweat and tears cable management\n\nPARTS LIST FOR TOASTER #2\nDFRobot LattePanda Alpha\nSilicon Power 1TB - NVMe M.2 PCIe Gen3x4 2280 TLC SSD\nAmazon USB hub \nvarious spare parts I had for mounting \nthe drill \n\nThis video is me building the worlds fastest GAMING TOASTER that can RUN CRYSIS *WOWZERS* I also play RANKED rainbow six siege on the toaster.\n\nThank you guys for watching my videos, God bless and stay safe!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IjABEqQ6YXM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IjABEqQ6YXM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IjABEqQ6YXM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IjABEqQ6YXM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IjABEqQ6YXM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Basically Homeless",
+        "tags": [
+          "I built the worlds fastest gaming toaster",
+          "built a toaster that runs crysis",
+          "the worlds fastest gaming toaster",
+          "playing ranked rianbow six siege on the worlds fastest gaming toaster",
+          "gaming toaster plays video games",
+          "toaster that runs video games and makes toast",
+          "rainbow six siege",
+          "crysis",
+          "first person shooter",
+          "funny pc build",
+          "pc building",
+          "computer building in weird cases",
+          "odd computer builds",
+          "cool pc builds",
+          "gaming pc builds",
+          "computer building",
+          "basically homeless",
+          "mr homeless"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "The World’s Fastest Gaming Toaster",
+          "description": "Can you build a toaster that runs Crysis and STILL MAKES TOAST!? \nSponsorered by ORIGIN PC - check out Crysis Remastered & ORIGIN's custom PCs here https://bit.ly/2IKivIS :) Enter Giveaway here: https://bit.ly/2JxxDcX\n\nYOUTOOZ LIVE ON DEC 4TH POGGERZ BOYS! Check out the giveaway here -\nhttps://basicallyhomeless.youtooz.com/\n\nIf you watched until the best part you'll understand why you need to go here heh - https://twitter.com/BascllyHomeless\n\nFor links to the rest of my socials, you can find them here - https://zbtsol.com\n\n\nPARTS LIST for TOASTER #1:\nCorsair Vengeance 3600MHz 8GBx2 ram kit \nRyzen 5 3200G CPU (I pre-ordered a 5600x for this video but it didn't come in tike for vid :( ) \nAsus TUF Gaming OC 1660 SUPER GPU \nSilverStone Technology 350 Watt Flex ATX Power Supply\nSilicon Power 1TB - NVMe M.2 PCIe Gen3x4 2280 TLC SSD\nAsus Prime A320I-K AMD Ryzen AM4 DDR4 M.2 DP HDMI Mini ITX Motherboard\nBlack & Decker four slot Toaster custom case built by me with sweat and tears cable management\n\nPARTS LIST FOR TOASTER #2\nDFRobot LattePanda Alpha\nSilicon Power 1TB - NVMe M.2 PCIe Gen3x4 2280 TLC SSD\nAmazon USB hub \nvarious spare parts I had for mounting \nthe drill \n\nThis video is me building the worlds fastest GAMING TOASTER that can RUN CRYSIS *WOWZERS* I also play RANKED rainbow six siege on the toaster.\n\nThank you guys for watching my videos, God bless and stay safe!"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT8M38S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "246833",
+        "likeCount": "29222",
+        "dislikeCount": "71",
+        "favoriteCount": "0",
+        "commentCount": "1695"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "R2vDevNjklqxoq5kvW4wrh2xRNc",
+      "id": "YLfjfV-K1tE",
+      "snippet": {
+        "publishedAt": "2020-09-29T14:15:01Z",
+        "channelId": "UC-SmuIHMG2HPDFUOBRu5LnA",
+        "title": "How to: Ramen Fried Rice | Feed Your Inner Child!",
+        "description": "►View written recipe 📝: https://futuredish.com/ramen-fried-rice-sinfully-good-worth-making/\n►Buy Korean items from Gochujar 📦: https://gochujar.com/\n►Support our channel with $5/month 😘: https://www.youtube.com/channel/UC-SmuIHMG2HPDFUOBRu5LnA/join\n►Or Buy Us a Coffee ☕️ : https://www.buymeacoffee.com/futureneighbor\n\nToday, I'll show you how to turn Korean cup ramen into a savory late-night fried rice. All it takes is 2 ingredients and 5 minutes! At first, I was quite skeptical about the combination... but the combination of chewy noodles with soft rice is superb! Give it a try next time you're hungry ;-)\n\nConnect with us outside the kitchen\nFacebook: https://www.facebook.com/futureneighbor/\nInstagram: https://www.instagram.com/efutureneighbor/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YLfjfV-K1tE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YLfjfV-K1tE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YLfjfV-K1tE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YLfjfV-K1tE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YLfjfV-K1tE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Future Neighbor",
+        "tags": [
+          "Future Neighbor",
+          "Korean cooking",
+          "Korean recipes",
+          "Korean food",
+          "Korean food recipes",
+          "Korean food recipes easy",
+          "Korean food recipes in English",
+          "korean ramen",
+          "korean ramen recipe",
+          "ramen fried rice",
+          "ramen fried rice recipe"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "How to: Ramen Fried Rice | Feed Your Inner Child!",
+          "description": "►View written recipe 📝: https://futuredish.com/ramen-fried-rice-sinfully-good-worth-making/\n►Buy Korean items from Gochujar 📦: https://gochujar.com/\n►Support our channel with $5/month 😘: https://www.youtube.com/channel/UC-SmuIHMG2HPDFUOBRu5LnA/join\n►Or Buy Us a Coffee ☕️ : https://www.buymeacoffee.com/futureneighbor\n\nToday, I'll show you how to turn Korean cup ramen into a savory late-night fried rice. All it takes is 2 ingredients and 5 minutes! At first, I was quite skeptical about the combination... but the combination of chewy noodles with soft rice is superb! Give it a try next time you're hungry ;-)\n\nConnect with us outside the kitchen\nFacebook: https://www.facebook.com/futureneighbor/\nInstagram: https://www.instagram.com/efutureneighbor/"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT6M9S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "614017",
+        "likeCount": "28101",
+        "dislikeCount": "380",
+        "favoriteCount": "0",
+        "commentCount": "1001"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1oyjrweDo6xFNvRB1-rgQ46PfIE",
+      "id": "gnkrDse9QKc",
+      "snippet": {
+        "publishedAt": "2020-11-20T15:00:13Z",
+        "channelId": "UC-8QAzbLcRglXeN_MY9blyw",
+        "title": "Beginner React.js Coding Interview (ft. Clément Mihailescu)",
+        "description": "I give Clément Mihailescu a mock React.js interview that is geared towards beginners.\n\nCheckout the video we made on Clem's channel: https://youtu.be/vHKzIPwWQkg\n\n#benawad #ClémentMihailescu #react\n\n----\nCheckout my side projects:\n\nIf you're into cooking: https://www.mysaffronapp.com/\n\n----\nJoin the Discord:  https://discord.gg/Vehs99V\n\n----\nPatreon: https://www.patreon.com/benawad\n\n----\nFollow Me Online Here:\n\nTwitter: https://twitter.com/benawad\nTikTok: https://www.tiktok.com/@benawad\nTwitch: https://www.twitch.tv/benawad\nMedium: https://medium.com/@benawad\nGitHub: https://github.com/benawad\nFacebook: https://www.facebook.com/benawad97/\nLinkedIn: https://www.linkedin.com/in/benawad/\nInstagram: http://instagram.com/benawad97",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gnkrDse9QKc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gnkrDse9QKc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gnkrDse9QKc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gnkrDse9QKc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gnkrDse9QKc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ben Awad",
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Beginner React.js Coding Interview (ft. Clément Mihailescu)",
+          "description": "I give Clément Mihailescu a mock React.js interview that is geared towards beginners.\n\nCheckout the video we made on Clem's channel: https://youtu.be/vHKzIPwWQkg\n\n#benawad #ClémentMihailescu #react\n\n----\nCheckout my side projects:\n\nIf you're into cooking: https://www.mysaffronapp.com/\n\n----\nJoin the Discord:  https://discord.gg/Vehs99V\n\n----\nPatreon: https://www.patreon.com/benawad\n\n----\nFollow Me Online Here:\n\nTwitter: https://twitter.com/benawad\nTikTok: https://www.tiktok.com/@benawad\nTwitch: https://www.twitch.tv/benawad\nMedium: https://medium.com/@benawad\nGitHub: https://github.com/benawad\nFacebook: https://www.facebook.com/benawad97/\nLinkedIn: https://www.linkedin.com/in/benawad/\nInstagram: http://instagram.com/benawad97"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT36M31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "271343",
+        "likeCount": "9800",
+        "dislikeCount": "180",
+        "favoriteCount": "0",
+        "commentCount": "798"
+      }
+    }
+  ],
+  "nextPageToken": "CAoQAA",
+  "pageInfo": {
+    "totalResults": 597,
+    "resultsPerPage": 10
+  }
+}
