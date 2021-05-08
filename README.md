@@ -3,9 +3,10 @@
 </p>
 <div align="center">
     <h1>
-  Khoa Phan
-</h1>
-https://thekp.dev
+        Khoa Phan
+    </h1>
+   https://thekp.dev
+    <p>Built using a legacy version of [BBC's Psammead](https://github.com/bbc/psammead) component library</p>
 </div>
     
 
