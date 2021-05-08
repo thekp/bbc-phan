@@ -6,7 +6,7 @@
         Khoa Phan
     </h1>
    https://thekp.dev
-    <p>Built using a legacy version of [BBC's Psammead](https://github.com/bbc/psammead) component library</p>
+    <p>Built using a legacy version of <a href="https://github.com/bbc/psammead">BBC's Psammead</a> component library</p>
 </div>
     
 
