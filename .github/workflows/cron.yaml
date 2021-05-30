@@ -1,0 +1,12 @@
+name: 1-day-cron
+on:
+  schedule:
+    - cron: "*/1 * * * *"
+jobs:
+  cron:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy static site
+        run: |
+          curl --request GET \
+          --url '${{ secrets.AWS_SECRET_ACCESS_KEY }}' \
