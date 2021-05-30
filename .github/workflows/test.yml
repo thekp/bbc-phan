@@ -1,8 +1,11 @@
-name: GitHub Actions Demo
-on: [push]
+name: Do Something That Needs Scheduled
+on:
+  schedule:
+    - cron:  '*/5 * * * *'
 jobs:
-  cron:
+  build:
+    name: Run Some Scheduled Thing
     runs-on: ubuntu-latest
     steps:
-      - name: Deploy static site
-        run: curl --request GET --url ${{ secrets.VERCEL_DEPLOYMENT_URL }}
+      - name: Do Something
+        run: echo Doing Something...
