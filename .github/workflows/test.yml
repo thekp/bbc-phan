@@ -1,11 +1,16 @@
-name: Do Something That Needs Scheduled
-on:
+name: Experiment
+on: 
   schedule:
-    - cron:  '*/5 * * * *'
+  - cron: '*/5 * * * *'
+
 jobs:
-  build:
-    name: Run Some Scheduled Thing
+  job1:
+    name: Debug
     runs-on: ubuntu-latest
+
     steps:
-      - name: Do Something
-        run: echo Doing Something...
+    - name: Git checkout
+      uses: actions/checkout@v2
+      with: { ref: debug }
+    - name: List files
+      run: ls
