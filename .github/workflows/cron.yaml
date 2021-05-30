@@ -9,4 +9,4 @@ jobs:
       - name: Deploy static site
         run: |
           curl --request GET \
-          --url ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          --url ${{ secrets.VERCEL_DEPLOYMENT_URL }}
