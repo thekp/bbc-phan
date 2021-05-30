@@ -1,0 +1,10 @@
+name: Trigger static deployment
+on:
+  schedule:
+    - cron: "*/2 * * * *"
+jobs:
+  cron:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy static site
+        run: curl --request GET --url ${{ secrets.VERCEL_DEPLOYMENT_URL }}
