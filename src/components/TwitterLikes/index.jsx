@@ -30,6 +30,7 @@ const TwitterLikes = ({ twitterLikes }) => (
         dir="ltr"
         labelId={"Recent Liked Tweets"}
         service="news"
+        id={"recently-liked-tweets"}
       >
         Recent Liked Tweets
       </ExtSectionLabel>
