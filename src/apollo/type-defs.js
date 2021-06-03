@@ -64,9 +64,15 @@ export const typeDefs = gql`
     max_speed: Float
   }
 
+  type TwitterLikesResponse {
+    id: String
+    text: String
+  }
+
   type Query {
     LikedYouTubeVideos: YouTubeVideosResponse
     DislikedYouTubeVideos: YouTubeVideosResponse
     StravaActivities: [StravaActivityResponse]
+    TwitterLikes: [TwitterLikesResponse]
   }
 `;

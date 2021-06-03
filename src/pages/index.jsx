@@ -1,7 +1,7 @@
 import React from "react";
-import dynamic from "next/dynamic";
-import axios from "axios";
 import { Helmet } from "react-helmet";
+
+import dynamic from "next/dynamic";
 import { useQuery } from "@apollo/client";
 
 import { initializeApollo } from "../apollo/client";
@@ -11,6 +11,7 @@ import { FrontPageData } from "../apollo/query";
 
 const Ranking = dynamic(() => import("../components/Ranking"));
 const StravaMap = dynamic(() => import("../components/StravaMap"));
+const TwitterLikes = dynamic(() => import("../components/TwitterLikes"));
 
 const IndexPage = () => {
   const {
@@ -18,6 +19,7 @@ const IndexPage = () => {
       StravaActivities: activitiesData,
       LikedYouTubeVideos: likeData,
       DislikedYouTubeVideos: dislikeData,
+      TwitterLikes: twitterLikes,
     },
   } = useQuery(FrontPageData);
 
@@ -35,6 +37,7 @@ const IndexPage = () => {
       <Layout>
         <TopStory />
         <StravaMap activityData={activitiesData[0]} />
+        <TwitterLikes twitterLikes={twitterLikes} />
         <Ranking
           data={likeData}
           columnLayout="twoColumn"
@@ -46,7 +49,6 @@ const IndexPage = () => {
           columnLayout="twoColumn"
           title="Recently 👎 videos"
         />
-
         <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}></div>
       </Layout>
     </>

@@ -53,5 +53,9 @@ export const FrontPageData = gql`
         }
       }
     }
+    TwitterLikes {
+      id
+      text
+    }
   }
 `;

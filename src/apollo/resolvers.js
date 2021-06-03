@@ -39,5 +39,18 @@ export const resolvers = {
 
       return data;
     },
+    TwitterLikes: async () => {
+      const twitterAuthToken = process.env.TWITTER_AUTH_TOKEN;
+
+      const {
+        data: { data },
+      } = await axios({
+        method: "get",
+        headers: { Authorization: `Bearer ${twitterAuthToken}` },
+        url: "https://api.twitter.com/2/users/1222919210700955649/liked_tweets",
+      });
+
+      return data;
+    },
   },
 };

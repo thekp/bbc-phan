@@ -33,13 +33,14 @@
     "axios": "^0.21.1",
     "date-fns": "^2.16.1",
     "graphql": "^15.4.0",
-    "next": "^10.0.4",
+    "next": "^10.2.3",
     "polyline-encoded": "0.0.9",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-helmet": "^6.1.0",
     "react-lazyload": "^3.0.0",
+    "react-twitter-embed": "^3.0.3",
     "styled-components": "^5.1.1",
     "webpack": "^4.44.1"
   },
@@ -66,7 +67,7 @@
     "jest-styled-components": "^7.0.2",
     "prettier": "^2.0.5",
     "react-test-renderer": "^16.13.1",
-    "stylelint": "^13.6.1",
+    "stylelint": "^13.13.1",
     "stylelint-config-recommended": "^3.0.0",
     "stylelint-config-styled-components": "^0.1.1",
     "stylelint-processor-styled-components": "^1.10.0"
@@ -80,7 +81,7 @@
     "copy and paste"
   ],
   "scripts": {
-    "dev": "next dev  -p 1997",
+    "dev": "next dev -p 1997",
     "build": "next build",
     "start": "next start",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",

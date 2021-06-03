@@ -25,7 +25,11 @@ class MyDocument extends Document {
             href="/leaflet/leaflet@1.7.1/dist/leaflet.css"
           />
           <script src="/leaflet/leaflet@1.7.1/dist/leaflet.js"></script>
-
+          <script
+            async
+            src="https://platform.twitter.com/widgets.js"
+            charset="utf-8"
+          ></script>
           {/* Output the styles in the head  */}
           {this.props.styleTags}
           <link rel="icon" href="/khoa.png" />
