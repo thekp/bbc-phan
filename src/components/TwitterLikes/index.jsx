@@ -6,6 +6,7 @@ import Paragraph from "@bbc/psammead-paragraph";
 import Timestamp from "@bbc/psammead-timestamp-container";
 import SectionLabel from "@bbc/psammead-section-label";
 import { latin } from "@bbc/gel-foundations/scripts";
+import { GEL_GROUP_2_SCREEN_WIDTH_MIN } from "@bbc/gel-foundations/breakpoints";
 
 const SectionContainer = styled.div`
   margin-bottom: 1.5rem;
@@ -17,9 +18,9 @@ const ExtSectionLabel = styled(SectionLabel)`
 
 const TweetContainer = styled.div`
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  align-items: center;
-  place-items: center;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  align-items: flex-start;
+  grid-auto-flow: dense;
 `;
 
 const TwitterLikes = ({ twitterLikes }) => (
@@ -42,6 +43,7 @@ const TwitterLikes = ({ twitterLikes }) => (
           key={index}
           tweetId={tweet.id}
           options={{ cards: "hidden", width: 300 }}
+          style={{ marginTop: 0 }}
         />
       ))}
     </TweetContainer>

@@ -32,6 +32,7 @@ const MainWrapper = styled.main`
     width: 100%; /* Needed for IE11 */
     margin: 0 auto ${GEL_SPACING_QUIN};
     max-width: ${GEL_GROUP_4_SCREEN_WIDTH_MIN};
+    padding: 24px ${GEL_SPACING_DBL} 0;
   }
 `;
 
