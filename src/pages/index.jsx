@@ -36,7 +36,7 @@ const IndexPage = () => {
       </Helmet>
       <Layout>
         <TopStory />
-        <StravaMap activityData={activitiesData[0]} />
+        {/* <StravaMap activityData={activitiesData[0]} /> */}
         <TwitterLikes twitterLikes={twitterLikes} />
         <Ranking
           data={likeData}
