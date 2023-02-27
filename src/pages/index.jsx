@@ -37,7 +37,6 @@ const IndexPage = () => {
       <Layout>
         <TopStory />
         {/* <StravaMap activityData={activitiesData[0]} /> */}
-        <TwitterLikes twitterLikes={twitterLikes} />
         <Ranking
           data={likeData}
           columnLayout="twoColumn"
@@ -49,6 +48,7 @@ const IndexPage = () => {
           columnLayout="twoColumn"
           title="Recently 👎 videos"
         />
+        <TwitterLikes twitterLikes={twitterLikes} />
         <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}></div>
       </Layout>
     </>

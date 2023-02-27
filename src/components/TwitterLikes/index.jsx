@@ -21,6 +21,7 @@ const TweetContainer = styled.div`
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
   align-items: flex-start;
   grid-auto-flow: dense;
+  justify-items: center;
 `;
 
 const TwitterLikes = ({ twitterLikes }) => (
